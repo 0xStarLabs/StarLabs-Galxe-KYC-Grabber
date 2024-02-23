@@ -1,0 +1,2 @@
+0xPrivateKey
+mnemo words one by one
